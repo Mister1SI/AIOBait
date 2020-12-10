@@ -1,17 +1,21 @@
 body {
     background-color:#790101;
+    padding: 0px;
 }
 header {
     background-color:#222222;
-    color:rgb(67, 238, 15);
+    color:white;
     padding: 15px;
+    margin: 0px;
 }
 .hlink {
     display: inline;
     padding: 10px;
     text-decoration: none;
-    color: whitesmoke;
+    color: white;
+    margin: 10px;
 }
 .hhead {
     display: inline;
+    margin-right: 15px;
 }
