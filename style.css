@@ -5,8 +5,8 @@ body {
 header {
     background-color:#222222;
     color:white;
-    padding: 15px;
-    margin: 0px;
+    padding: 10px;
+    margin: 0px; 
 }
 .hlink {
     display: inline;
@@ -18,4 +18,19 @@ header {
 .hhead {
     display: inline;
     margin-right: 15px;
+}
+.logo {
+    width:7%;
+}
+h2 {
+  color:burlywood;
+}
+h3 {
+  color:burlywood;
+}
+p {
+  color:burlywood;
+}
+a {
+    color:lightblue;
 }
